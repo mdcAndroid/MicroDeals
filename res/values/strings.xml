@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">MicroDeal</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">MicroDeals</string>
     <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="string_Facebookl">Facebook</string>
+    <string name="string_Google">Google</string>
+    <string name="string_MicroDealAccount">MicroDeal Account</string>
 
 </resources>
